@@ -7,3 +7,17 @@ I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 
 ```
+## Technologies 
+*Javascript
+*Node.js
+*Express.js
+*MongoDB
+*Mongoose
+
+## Installation 
+To install this application, run npm install on your local machine:
+```
+npm install
+```
+## Video-Link 
+
