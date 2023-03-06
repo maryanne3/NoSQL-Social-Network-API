@@ -9,6 +9,12 @@ SO THAT my website can handle large amounts of unstructured data
 ```
 ## Technologies 
 
+* MongoDB
+* Mongoose
+* Node.js
+* Express.js
+* JavaScript
+
 
 ## Installation 
 To install this application, run npm install on your local machine:
