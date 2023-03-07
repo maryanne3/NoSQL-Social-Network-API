@@ -6,3 +6,4 @@ router.use('/api', apiRoutes);
 router.use((req, res) => res.send('Error!'));
 module.exports = router;
 
+module.exports = router;
